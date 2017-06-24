@@ -25,6 +25,6 @@ And in more detail in a russian journal article here:
 Д. Л. Кишлаков [D. L. Kishlakov], П. В. Тараканов, Г. В. Шашурин, и Ю. В. Берчун. 2017. «Эффективность облачных вычислений в моделировании кинетики трещин в наводороженных элементах конструкций.» Информационные Технологии 23 (2): 113-120. 
 URL: http://novtex.ru/IT/it2017/number_2_annot.html#6
 
-And as always some a plot for dessert:
+And as always, a plot for dessert:
 
 ![Plot](/коэффициент_ускорения_вязкость.png)
