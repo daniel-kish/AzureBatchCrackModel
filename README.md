@@ -17,10 +17,13 @@ In essence this project has helped me to conduct a massive research of the model
 Most of the results are covered in the thesis itself. Based on that work a couple of papers was published:
 
 The gist of the analysis is presented in proceedings here:
-1. 	D. L. Kishlakov, P. V. Tarakanov, G. V. Shashurin, Y. V. Berchun, "Cloud Applications Performance in Crack Growth Simulations of Pre-Hydrogenated Structure Components", Materials Science Forum, Vol. 844, pp. 97-102, 2016. DOI:10.4028/www.scientific.net/MSF.844.97
+
+D. L. Kishlakov, P. V. Tarakanov, G. V. Shashurin, Y. V. Berchun, "Cloud Applications Performance in Crack Growth Simulations of Pre-Hydrogenated Structure Components", Materials Science Forum, Vol. 844, pp. 97-102, 2016. DOI:10.4028/www.scientific.net/MSF.844.97
 
 And in more detail in a russian journal article here:
-2. Д. Л. Кишлаков [D. L. Kishlakov], П. В. Тараканов, Г. В. Шашурин, и Ю. В. Берчун. 2017. «Эффективность облачных вычислений в моделировании кинетики трещин в наводороженных элементах конструкций.» Информационные Технологии 23 (2): 113-120.
+
+Д. Л. Кишлаков [D. L. Kishlakov], П. В. Тараканов, Г. В. Шашурин, и Ю. В. Берчун. 2017. «Эффективность облачных вычислений в моделировании кинетики трещин в наводороженных элементах конструкций.» Информационные Технологии 23 (2): 113-120. 
+URL: http://novtex.ru/IT/it2017/number_2_annot.html#6
 
 And as always some a plot for dessert:
 
